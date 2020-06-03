@@ -1,5 +1,5 @@
 _repo: Colorado-Wild-Flowers_62263
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Bailey, Alfred M. (Alfred Marshall)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '51867'
     url: http://www.gutenberg.org/2009/agents/51867
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Marshall_Bailey
+covers:
+- cover_type: archival
+  image_path: 62263-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Roberts, Rhoda N.
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '51860'
     url: http://www.gutenberg.org/2009/agents/51860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62263#Colorado-Wild-Flowers
 gutenberg_issued: '2020-05-28'
 gutenberg_type: Text
 identifiers:
