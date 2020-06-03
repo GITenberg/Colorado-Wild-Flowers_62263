@@ -1,0 +1,40 @@
+_repo: Colorado-Wild-Flowers_62263
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Bailey, Alfred M. (Alfred Marshall)
+    aliases:
+    - Bailey, A. M. (Alfred Marshall)
+    - Bailey, Alfred Marshall
+    birthdate: 1894
+    deathdate: 1978
+    gutenberg_agent_id: '51867'
+    url: http://www.gutenberg.org/2009/agents/51867
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Marshall_Bailey
+creator:
+  authors:
+  - agent_name: Roberts, Rhoda N.
+    birthdate: 1886
+    gutenberg_agent_id: '51861'
+    url: http://www.gutenberg.org/2009/agents/51861
+  - agent_name: Roberts, Harold DeWitt
+    birthdate: 1887
+    deathdate: 1956
+    gutenberg_agent_id: '51860'
+    url: http://www.gutenberg.org/2009/agents/51860
+description: ''
+gutenberg_issued: '2020-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Museum pictorial (Denver Museum of Natural History); no. 8.
+subjects:
+- !lcc 'QK'
+- !lcsh 'Wild flowers -- Colorado -- Identification'
+- GITenberg
+title: Colorado Wild Flowers
+url: http://www.gutenberg.org/ebooks/62263
